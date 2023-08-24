@@ -171,9 +171,6 @@ async function runTests() {
   } finally {
     await browser.close();
   }
-
-    // Screenshot Comparison
-    // ... your code here ...
   
 }
 
